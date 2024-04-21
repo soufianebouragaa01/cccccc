@@ -1,0 +1,21 @@
+Setup GitHub Repository:
+If you haven't already, create a GitHub account and a repository for this assignment.
+Follow the instructions provided in the Development Setup Video or Module 1 to set up your repository for hosting on GitHub Pages.
+Download Starter Files:
+Clone the fullstack-course4 repository to your local machine if you haven't already.
+Navigate to the appropriate folder within the cloned repository (e.g., fullstack-course4/assignments/assignment4/assignment4-solution-starter/harder or fullstack-course4/assignments/assignment4/assignment4-solution-starter/easier).
+Copy all the contents of the chosen folder into your solution container folder (e.g., module4-solution).
+Work on script.js:
+Open the script.js file in your code editor.
+Follow the steps outlined in the comments to fix the code within script.js.
+Pay attention to any errors or warnings that appear in the console as you work, and make necessary adjustments to resolve them.
+Testing:
+Use Browser Sync to continuously preview your changes in the browser.
+Keep Chrome open to the Console tab of the Chrome Developer Tools to check for any errors or unexpected behavior.
+Debugging and Refinement:
+If you encounter any issues or errors, don't hesitate to ask questions in the course Discussion forum.
+Debug and refine your code until it meets the requirements specified in the assignment.
+Commit and Push Changes:
+Once you're satisfied with your solution, commit and push your changes to your GitHub repository.
+Ensure that your solution is accessible and functional by visiting the GitHub Pages URL provided by your repository.
+Remember to take your time, carefully read through the instructions and comments in the starter code, and don't hesitate to seek clarification or assistance if needed. Good luck with your assignment!
